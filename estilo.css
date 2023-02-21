@@ -14,7 +14,7 @@ hr{
     
     border: solid 1px black;
     width: 40%;
-    margin: 0 0 100px 40px;
+    margin: 0 0 6.25rem 2.5rem;
     
     
 }
@@ -28,7 +28,7 @@ p{
 
     font-size: 1rem;
     
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 
@@ -38,10 +38,10 @@ p{
 .bars
 {
     color: white;
-    font-size: 39px;
+    font-size: 2.5rem;
     position: absolute;
-    top: 14.5px;
-    right: 60px;
+    top: 0.906rem;
+    right: 3.7rem;
 
 }
 
@@ -49,10 +49,10 @@ p{
 
 
     color: white;
-    font-size: 39px;
+    font-size: 2.5rem;
     position: absolute;
-    top: 14.5px;
-    left: 55px;
+    top: 0.906rem;
+    left: 3.4rem;
 
 }
 
@@ -60,10 +60,10 @@ p{
 
 
     color: white;
-    font-size: 39px;
+    font-size: 2.5rem;
     position: absolute;
-    top: 14.5px;
-    right: 150px;
+    top: 0.906rem;
+    right: 9.4rem;
 
 
 }
@@ -73,10 +73,10 @@ p{
 
 
     color: black;
-    font-size: 39px;
+    font-size: 2.5rem;
     position: absolute;
-    top: 500px;
-    right:750px;
+    top: 31.25rem;
+    right:46.875rem;
 
 
 }
@@ -85,8 +85,8 @@ p{
 
 .a{
     
-    width:100%; height: 500px;
-    margin: 80px auto;
+    width:100%; height: 31.25rem;
+    margin: 5rem auto;
     background-color: #F9F54B ;
     
 
@@ -97,8 +97,8 @@ p{
     height: 130%;
     position: relative; 
     opacity: 98%;
-    left: 100px;
-    top: 50px;
+    left: 6.25rem;
+    top: 3.125rem;
 
     
     
@@ -109,8 +109,8 @@ p{
   color: white;
   font-size: 7rem;
   position: absolute;
-  left: 450px;
-  bottom: 120px;
+  left: 28.125rem;
+  bottom: 7.5rem;
   line-height: 1;
   font-family: 'candara';
 
@@ -123,8 +123,8 @@ p{
     font-family: 'candara';
     text-align: center;
     position: absolute;
-    bottom: 450px;
-    left:850px;
+    bottom: 28.125rem;
+    left:53.125rem;
     
 
     
