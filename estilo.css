@@ -1,0 +1,265 @@
+/*========================================== Tag s====================================*/
+
+body{
+
+    background-color: #041C32;
+    display: block;
+    margin:0;
+   
+    
+}
+
+hr{
+
+    
+    border: solid 1px black;
+    width: 40%;
+    margin: 0 0 100px 40px;
+    
+    
+}
+ h3{
+
+    font-size: 1.5rem;
+ }
+
+
+p{
+
+    font-size: 1rem;
+    
+    margin-left: 40px;
+}
+
+
+/*========================================== Classes ====================================*/
+
+
+.bars
+{
+    color: white;
+    font-size: 39px;
+    position: absolute;
+    top: 14.5px;
+    right: 60px;
+
+}
+
+.code{
+
+
+    color: white;
+    font-size: 39px;
+    position: absolute;
+    top: 14.5px;
+    left: 55px;
+
+}
+
+.icon {
+
+
+    color: white;
+    font-size: 39px;
+    position: absolute;
+    top: 14.5px;
+    right: 150px;
+
+
+}
+
+
+.seta {
+
+
+    color: black;
+    font-size: 39px;
+    position: absolute;
+    top: 500px;
+    right:750px;
+
+
+}
+
+
+
+.a{
+    
+    width:100%; height: 500px;
+    margin: 80px auto;
+    background-color: #F9F54B ;
+    
+
+}
+
+
+.foto{
+    height: 130%;
+    position: relative; 
+    opacity: 98%;
+    left: 100px;
+    top: 50px;
+
+    
+    
+    
+}
+ .port{
+
+  color: white;
+  font-size: 7rem;
+  position: absolute;
+  left: 450px;
+  bottom: 120px;
+  line-height: 1;
+  font-family: 'candara';
+
+ }
+
+ .description{
+
+    color: black;
+    font-size: 1.4rem;
+    font-family: 'candara';
+    text-align: center;
+    position: absolute;
+    bottom: 450px;
+    left:850px;
+    
+
+    
+ }
+
+.Skills{
+font-size: 5.5rem;
+line-height: 2;
+font-family: 'candara';
+color: white;
+position: absolute;
+top: 55rem;
+left: 690px;
+
+}
+
+
+.circle{
+
+    font-size: 4rem;
+    font-family: 'candara';
+    color: white;
+    position: absolute;
+    top: 65rem;
+    left: 63rem;
+    }
+
+
+
+
+.table{
+text-align: center;
+font-size: 2rem;
+font-family: 'candara';
+color: white;
+position: relative;
+display: flexbox;
+top: 35rem;
+right: 40px;
+padding-bottom: 45rem;
+margin:0 auto;
+
+
+
+
+}
+
+
+.b{
+
+     
+    width:100%; height: 500px;
+    margin: 80px auto;
+    background-color: #F9F54B ;
+   
+    
+    
+
+}
+
+.contact{
+
+font-size: 3rem;
+line-height: 2;
+font-family: 'candara';
+color: #041C32;
+text-align: right;
+position: relative;
+right: 300px;
+top: 100px;
+
+}
+
+.btn {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #041C32;
+    font-size: 20px;
+    background: #F9F54B;
+    padding: 10px 100px 10px 100px;
+    border: solid 041C32 2px;
+    text-decoration: none;
+    margin-left: 40px;
+  }
+  
+  .btn:hover {
+    background: #F9F54B;
+    background-image: -webkit-linear-gradient(top, #F9F54B, #F9F54B);
+    background-image: -moz-linear-gradient(top, #F9F54B, #F9F54B);
+    background-image: -ms-linear-gradient(top, #F9F54B, #F9F54B);
+    background-image: -o-linear-gradient(top, #F9F54B, #F9F54B);
+    background-image: linear-gradient(to bottom, #F9F54B, #F9F54B);
+    text-decoration: none;
+  }
+
+
+  .social{
+
+   color: #041C32;
+   font-size: 30px;
+   position: absolute;
+   display: inline-block;
+   
+   
+   left: 85rem;
+   top:115rem;
+   letter-spacing: 10px;
+
+  }
+
+  .number{
+
+    font-size: 20px;
+    position: relative;
+    right: 5px;
+   
+    
+    top: 95px;
+  }
+
+
+
+.c{
+   text-align: center;
+   position: relative;
+   margin: 0 auto;
+   top: 175px;
+   right: 700px;
+   color: white;
+    
+}
+
+
+
+
+/*========================================== Ids ====================================*/
